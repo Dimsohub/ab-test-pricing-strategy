@@ -53,7 +53,7 @@ subscription with the 50% discount message. This decision will likely have a pos
 • Continue monitoring the conversion rate after implementing the change to ensure the stability of the results.
 • Analyze other relevant metrics, such as the churn rate and average revenue per user, to fully understand the
 impact of the change.
-Combining the observed increase in the conversion rate with statistical confirmation and continuous monitoring
+• Combining the observed increase in the conversion rate with statistical confirmation and continuous monitoring
 allows for making an informed decision to optimize the subscription offer.
-A few minor improvements in wording for clarity and flow were made in the translation. The key information and
+• A few minor improvements in wording for clarity and flow were made in the translation. The key information and
 structure have been preserved.
