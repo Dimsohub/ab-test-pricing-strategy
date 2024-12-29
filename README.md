@@ -48,7 +48,7 @@ conversion rates between Group A and Group B is statistically significant.
 [Insert links to visualizations here]
 * Example visualization: A bar chart comparing the conversion rates of both groups.
 
-### Conclusion
+### Decision
 Based on the obtained results, which demonstrate a statistically significant increase in the conversion rate of 45.9%
 (from 6.10% to 8.90%), it is recommended to implement the change introduced in Group B, that is, to offer the
 subscription with the 50% discount message. This decision will likely have a positive impact on revenue.
