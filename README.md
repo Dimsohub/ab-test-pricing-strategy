@@ -32,10 +32,10 @@ Analysis was conducted using Jupyter Notebook, leveraging pandas for data manipu
 | Conversion Rate (%) | 6.10% | 8.90% |
 
 ### Statistical Significance
-  * The statistical significance of the observed difference was confirmed using a Chi-squared test. The results obtained
+ The statistical significance of the observed difference was confirmed using a Chi-squared test. The results obtained
 are as follows:
-• χ² statistic: 56.14
-• P-value: 6.74 × 10⁻¹⁴
+* χ² statistic: 56.14
+* P-value: 6.74 × 10⁻¹⁴
 Since the p-value (6.74 × 10⁻¹⁴) is significantly less than the commonly accepted significance level of 0.05, we can
 confidently reject the null hypothesis of no difference between the groups. This means that the difference in
 conversion rates between Group A and Group B is statistically significant.
