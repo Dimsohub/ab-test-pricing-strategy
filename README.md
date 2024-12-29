@@ -44,7 +44,7 @@ conversion rates between Group A and Group B is statistically significant.
 
 ### Visualization
 A bar chart with conversion rate comparison with lift
-![bar1](output_21_0.png)
+![bar1](/Images/output_21_0.png)
 
 
 ### Decision
