@@ -4,8 +4,6 @@ The goal of this A/B test is to determine whether offering a 50% discount messag
 B) has a statistically significant impact on the install-to-payment conversion rate compared to offering the standard $4.99 price
 without a discount message (Group A).
 
-## A/B Test Results: Impact of Discount Message on Conversion Rate
-
 ### Hypothesis
 * **Null Hypothesis (H₀):** There is no statistically significant difference in the install-to-payment conversion rate between Group A (standard price) and Group B (discounted price message).
 * **Alternative Hypothesis (H₁):** There is a statistically significant difference in the install-to-payment conversion rate between Group A and Group B. Specifically, we expect the conversion rate in Group B to be higher than Group A (one-tailed test).
