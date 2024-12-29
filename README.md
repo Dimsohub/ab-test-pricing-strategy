@@ -43,8 +43,9 @@ confidently reject the null hypothesis of no difference between the groups. This
 conversion rates between Group A and Group B is statistically significant.
 
 ### Visualization
-[Insert links to visualizations here]
-* Example visualization: A bar chart comparing the conversion rates of both groups.
+A bar chart with conversion rate comparison with lift
+output_21_0.png
+
 
 ### Decision
 Based on the obtained results, which demonstrate a statistically significant increase in the conversion rate of 45.9%
