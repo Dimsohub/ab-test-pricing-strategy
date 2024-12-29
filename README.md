@@ -40,11 +40,9 @@ Analysis was conducted using Jupyter Notebook, leveraging pandas for data manipu
 
 **Conclusion:**
 
-Since the p-value (6.74 x 10⁻¹⁴) is significantly less than the commonly accepted alpha level of 0.05, we can reject the null hypothesis. This indicates that the observed difference in conversion rates between Group A and Group B is statistically significant. 
-
-**Interpretation:** 
-
-The results suggest that the discount message in Group B had a significant impact on the conversion rate compared to the control group (Group A).
+Since the p-value (6.74 × 10⁻¹⁴) is significantly less than the commonly accepted significance level of 0.05, we can
+confidently reject the null hypothesis of no difference between the groups. This means that the difference in
+conversion rates between Group A and Group B is statistically significant.
 
 ### Visualization
 [Insert links to visualizations here]
