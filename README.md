@@ -48,6 +48,9 @@ A bar chart with conversion rate comparison with lift
 
 ![bar1](/Images/output_21_0.png)
 
+Daily conversion rate over time
+
+![bar2](Images/output_15_1.png)
 
 ### Decision
 Based on the obtained results, which demonstrate a statistically significant increase in the conversion rate of 45.9%
