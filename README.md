@@ -44,11 +44,11 @@ conversion rates between Group A and Group B is statistically significant.
 
 ### Visualization
 
-A bar chart with conversion rate comparison with lift
+**A bar chart with conversion rate comparison with lift**
 
 ![bar1](/Images/output_21_0.png)
 
-Daily conversion rate over time
+**Daily conversion rate over time**
 
 ![bar2](Images/output_15_1.png)
 
