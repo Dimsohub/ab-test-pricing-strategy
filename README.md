@@ -45,16 +45,15 @@ conversion rates between Group A and Group B is statistically significant.
 * Example visualization: A bar chart comparing the conversion rates of both groups.
 
 ### Conclusion
-Based on the results of the A/B test, we can conclude that [insert your conclusion here]. The addition of a 50% discount message significantly increased the install-to-payment conversion rate, indicating that this strategy can be effective in [insert relevant context, e.g., increasing revenue].
+Based on the obtained results, which demonstrate a statistically significant increase in the conversion rate of 45.9%
+(from 6.10% to 8.90%), it is recommended to implement the change introduced in Group B, that is, to offer the
+subscription with the 50% discount message. This decision will likely have a positive impact on revenue.
 
-**Key Improvements:**
-* **Added Statistical Significance Section:** This section provides a more in-depth analysis of the results and strengthens the conclusions.
-* **Enhanced Clarity:** The language has been refined for better clarity and conciseness.
-* **Included Placeholders:** The text includes placeholders for specific results (e.g., p-value, visualizations) that can be easily filled in.
-
-**Additional Tips:**
-* **Customize the Markdown:** Feel free to add more sections or customize the existing ones to fit your specific needs.
-* **Use a Markdown Editor:** Tools like GitHub's built-in editor, Visual Studio Code, or online editors can help you write Markdown more efficiently.
-* **Consider Adding Context:** Provide additional context about the product, target audience, and any other relevant factors.
-
-By following these guidelines and leveraging the power of Markdown, you can create a well-structured and informative report to share your A/B test results with your team.
+### Further Analysis:
+• Continue monitoring the conversion rate after implementing the change to ensure the stability of the results.
+• Analyze other relevant metrics, such as the churn rate and average revenue per user, to fully understand the
+impact of the change.
+Combining the observed increase in the conversion rate with statistical confirmation and continuous monitoring
+allows for making an informed decision to optimize the subscription offer.
+A few minor improvements in wording for clarity and flow were made in the translation. The key information and
+structure have been preserved.
