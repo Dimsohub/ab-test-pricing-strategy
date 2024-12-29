@@ -31,14 +31,20 @@ Analysis was conducted using Jupyter Notebook, leveraging pandas for data manipu
 | Number of Conversions | 611 | 889 |
 | Conversion Rate (%) | 6.10% | 8.90% |
 
-### Statistical Significance
- The statistical significance of the observed difference was confirmed using a Chi-squared test. The results obtained
-are as follows:
-* χ² statistic: 56.14
-* P-value: 6.74 × 10⁻¹⁴
-Since the p-value (6.74 × 10⁻¹⁴) is significantly less than the commonly accepted significance level of 0.05, we can
-confidently reject the null hypothesis of no difference between the groups. This means that the difference in
-conversion rates between Group A and Group B is statistically significant.
+### Statistical Significance Test Results
+
+**Chi-squared Test:**
+
+* **Chi-squared statistic:** 56.14
+* **P-value:** 6.74 x 10⁻¹⁴
+
+**Conclusion:**
+
+Since the p-value (6.74 x 10⁻¹⁴) is significantly less than the commonly accepted alpha level of 0.05, we can reject the null hypothesis. This indicates that the observed difference in conversion rates between Group A and Group B is statistically significant. 
+
+**Interpretation:** 
+
+The results suggest that the discount message in Group B had a significant impact on the conversion rate compared to the control group (Group A).
 
 ### Visualization
 [Insert links to visualizations here]
